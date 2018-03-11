@@ -1,6 +1,6 @@
 #!/home/sunnymarkliu/softwares/anaconda3/bin/python
 # _*_ coding: utf-8 _*_
-
+#处理用户表
 """
 @author: SunnyMarkLiu
 @time  : 17-12-22 下午5:08
